@@ -60,4 +60,4 @@ For this, we're using `relative paths`. We're inside of the "lab root" directory
 
 Next, we have to tell the computer where to move the image. Because we're inside lab root and so is the `elephants` directory, we can just go straight there, and then into `painters`.
 
-<p data-visibility='hidden'>KWK-L1 Find the Missing Pet</p>
+<p data-visibility='hidden'>KWK-L1 Find the 
